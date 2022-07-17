@@ -10,8 +10,8 @@ class script(object):
 <b>✮ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴: 𝙼𝙾𝙽𝙶𝙾-𝙳𝙱</b>
 <b>✮ 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁: 𝙷𝙴𝚁𝙾𝙺𝚄</b>
 <b>✮ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: 𝚅1.0.43</b>
-<b>✮ 𝚄𝙿𝙳𝙰𝚃𝙴𝚂: <a href=https://t.me/KGN_OFFICIAL>ZAHID</a></b>
-<b>✮ FOLLOW: <a href=instagram.com/md_zahid_raza_>ZAHID</a></b>"""
+<b>✮ 𝚄𝙿𝙳𝙰𝚃𝙴𝚂: <a href=https://t.me/KGN_BOTS>KGN-BOTS</a></b>
+<b>✮ FOLLOW: <a href=instagram.com/md_zahid_raza_>Dev</a></b>"""
     DONATION_TXT = """<b>𝐃𝐨𝐧𝐚𝐭𝐢𝐨𝐧 & 𝐏𝐚𝐢𝐝 𝐏𝐫𝐨𝐦𝐨𝐭𝐢𝐨𝐧</b> 
 
 ›› <b>𝐃𝐨𝐧𝐚𝐭𝐢𝐨𝐧</b>
